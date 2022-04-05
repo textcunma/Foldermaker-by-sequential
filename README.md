@@ -10,6 +10,7 @@ Electronを用いて作成。使用言語：JavaScript。実行ファイルは�
 
 appフォルダ内において以下のコマンドを実行
 ```bash
+npm install
 npm start
 ```
 
